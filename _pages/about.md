@@ -1,49 +1,44 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a **Senior Researcher** and the **Head of the Data Science group** in the Department of Gynecology and Obstetrics at University Hospital Hvidovre, specializing in women's health, particularly reproductive disorders. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My team and I leverage a multidisciplinary approach, combining expertise in Bayesian statistics, machine learning, and text mining, with multi-omics data (genomics, proteomics, metabolomics, metagenomics) to unravel the complex biological mechanisms underlying pregnancy complications. Our ultimate goal is to translate these findings into clinically relevant decision-making tools that enhance patient care and improve women's health.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Research
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My early research focused on sex differences in disease, which garnered significant attention from media outlets such as Reuters, Der Spiegel, and Forbes ([Nature Communications, 2019](https://www.nature.com/articles/s41467-019-08475-9)). I then expanded my work to investigate the long-term consequences of recurrent pregnancy loss on maternal health, demonstrating profound cardiovascular and autoimmune effects even a decade later ([Journal of the American Heart Association, 2020](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.015069)). Additionally, as an advocate for open science, I have explored the impact of limited access to full-text articles on research ([PLOS Computational Biology, 2018](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005962)).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+As a BRIDGE Translational Postdoctoral Fellow, I immersed myself in the clinical setting to better understand patient needs. This experience led to four impactful publications demonstrating:
 
-**Markdown generator**
+* The poor predictive performance of fertility history for subsequent pregnancies (featured in Science News) ([Human Reproduction, 2021](https://academic.oup.com/humrep/article/36/4/1065/6062281)).
+* The association between RPL and reduced family size ([Acta Obstetricia et Gynecologica Scandinavica 2021](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/aogs.14265)).
+* The profound impact of previous pregnancies on the immune system in later pregnancies ([medRxiv 2023, *in review*](https://www.medrxiv.org/content/10.1101/2023.08.10.23293934v1)).
+* The role of progesterone signaling in postpartum hemorrhage, the leading cause of maternal morbidity ([Nature Genetics 2024](https://www.nature.com/articles/s41588-024-01839-y)).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+In my current role as Head of Data Science, I drive research and innovation, for instance characterizing [sperm parameters in recurrent pregnancy loss](https://www.sciencedirect.com/science/article/pii/S1472648323008726) and [maternal risk factors for recurrent pregnancy loss](https://www.sciencedirect.com/science/article/pii/S0165037824001062). My work has resulted in four pending patent applications related to novel diagnostics in the realm of pregnancy loss.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+See also Selected [Publications](publications/).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<!---
+## Bio 
+Dr. David Westergaard is a Senior Researcher at the University Hospital Hvidovre. His research interests lies in the intersection of applied data science and reproductive disorders. He has published >60 articles in peer-reviwed journals, and has >10 years research experience in big data and machine learning.
+-->
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+### Timeline
+* September 2022 - present, Senior Researcher, Department of Gynecology and Obstetrics, University Hospital Hvidovre
+* Mar 2019 - present, Guest Researcher, Data Science Lab, Statistics Denmark
+* October 2018, PhD, Biostatistics and Bioinformatics, University of Copenhagen
+* Feb 2015 - May 2024, PhD student, Postdoctoral Fellow, Assistant Professor, Novo Nordisk Foundation Center for Protein Research, University of Copenhagen
+* Jan 2015, MSc.Eng (hons) in Bioinformatics and Systems Biology, Technical university of Denmark
+* Oct 2013 - Dec 2013, Research Assistant, University of Hong Kong
+* Mar 2013 - Sep 2013, Research Internship, EMBL ‑ European Bioinformatics Institute
+* Jul 2012, BSc.Eng in Chemical Engineering, Technical university of Denmark

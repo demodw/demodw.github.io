@@ -1,11 +1,22 @@
 ---
 title: "Uncovering the Heritable Components of Multimorbidities and Disease Trajectories: A Nationwide Cohort Study"
 collection: publications
-permalink: /publication/2023-02-10-heritability.md
-excerpt: 'TBA'
+excerpt: '
+<u>Key findings</u>
+
+* <b>Novel Approach for Large-Scale Analysis</b>: The study developed a new method to estimate heritability and genetic correlations that can efficiently handle massive datasets, opening doors for future population-wide genetic studies.
+
+* <b>Sex-Specific Genetic Landscape</b>: We uncovered significant differences in heritability between men and women for numerous diseases, highlighting the importance of considering sex in genetic research and treatment.
+
+* <b>Sex-Specific Genetic Landscape</b>: We uncovered significant differences in heritability between men and women for numerous diseases, highlighting the importance of considering sex in genetic research and treatment.
+
+* <b>Unveiling Disease Connections</b>: By examining genetic correlations, we identified unexpected links between seemingly unrelated diseases, potentially revealing shared biological mechanisms and new avenues for diagnosis and treatment.
+
+* <b>Heritability of Disease Trajectories<b/>: We investigated the heritability of disease trajectories, examining how genetic factors influence the progression and development of multiple diseases over time. This is a novel approach that could provide insights into the complex interplay between genetics and disease progression.
+'
 date: 2023-02-10
 venue: 'medRxiv'
-paperurl: 'https://www.medrxiv.org/content/10.1101/2023.02.08.23285642v1'
+link: 'https://www.medrxiv.org/content/10.1101/2023.02.08.23285642v1'
 citation: '<b>Westergaard, D.</b>, Jørgensen, F. H., Waaben, J., Lademann, M., Hansen, T. F., Cremers, J., ... & Brunak, S. (2023). Uncovering the heritable components of multimorbidities and disease trajectories: a nationwide cohort study. medRxiv, 2023-02.
 '
 ---

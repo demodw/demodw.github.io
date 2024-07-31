@@ -13,24 +13,20 @@ My team and I leverage a multidisciplinary approach, combining expertise in Baye
 
 
 ## Research
-
 My early research focused on sex differences in disease, which garnered significant attention from media outlets such as Reuters, Der Spiegel, and Forbes ([Nature Communications, 2019](https://www.nature.com/articles/s41467-019-08475-9)). I then expanded my work to investigate the long-term consequences of recurrent pregnancy loss on maternal health, demonstrating profound cardiovascular and autoimmune effects even a decade later ([Journal of the American Heart Association, 2020](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.015069)). Additionally, as an advocate for open science, I have explored the impact of limited access to full-text articles on research ([PLOS Computational Biology, 2018](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005962)).
 
 As a BRIDGE Translational Postdoctoral Fellow, I immersed myself in the clinical setting to better understand patient needs. This experience led to four impactful publications demonstrating:
 
+* The role of progesterone signaling in postpartum hemorrhage, the leading cause of maternal morbidity ([Nature Genetics 2024](https://www.nature.com/articles/s41588-024-01839-y)).
+* The profound impact of previous pregnancies on the immune system in later pregnancies ([medRxiv 2023, *in review*](https://www.medrxiv.org/content/10.1101/2023.08.10.23293934v1)).
 * The poor predictive performance of fertility history for subsequent pregnancies (featured in Science News) ([Human Reproduction, 2021](https://academic.oup.com/humrep/article/36/4/1065/6062281)).
 * The association between RPL and reduced family size ([Acta Obstetricia et Gynecologica Scandinavica 2021](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/aogs.14265)).
-* The profound impact of previous pregnancies on the immune system in later pregnancies ([medRxiv 2023, *in review*](https://www.medrxiv.org/content/10.1101/2023.08.10.23293934v1)).
-* The role of progesterone signaling in postpartum hemorrhage, the leading cause of maternal morbidity ([Nature Genetics 2024](https://www.nature.com/articles/s41588-024-01839-y)).
 
 In my current role as Head of Data Science, I drive research and innovation, for instance characterizing [sperm parameters in recurrent pregnancy loss](https://www.sciencedirect.com/science/article/pii/S1472648323008726) and [maternal risk factors for recurrent pregnancy loss](https://www.sciencedirect.com/science/article/pii/S0165037824001062). My work has resulted in four pending patent applications related to novel diagnostics in the realm of pregnancy loss.
 
-See also Selected [Publications](publications/).
+See also [Selected Publications](publications/).
 
-<!---
-## Bio 
-Dr. David Westergaard is a Senior Researcher at the University Hospital Hvidovre. His research interests lies in the intersection of applied data science and reproductive disorders. He has published >60 articles in peer-reviwed journals, and has >10 years research experience in big data and machine learning.
--->
+
 
 
 ### Timeline

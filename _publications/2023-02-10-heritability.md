@@ -14,10 +14,10 @@ excerpt: '
 
 * <b>Heritability of Disease Trajectories<b/>: We investigated the heritability of disease trajectories, examining how genetic factors influence the progression and development of multiple diseases over time. This is a novel approach that could provide insights into the complex interplay between genetics and disease progression.
 '
-date: 2023-02-10
-venue: 'medRxiv'
-link: 'https://www.medrxiv.org/content/10.1101/2023.02.08.23285642v1'
-citation: '<b>Westergaard, D.</b>, Jørgensen, F. H., Waaben, J., Lademann, M., Hansen, T. F., Cremers, J., ... & Brunak, S. (2023). Uncovering the heritable components of multimorbidities and disease trajectories: a nationwide cohort study. medRxiv, 2023-02.
+date: 2024-08-28
+venue: 'Nature Communications'
+link: 'https://www.nature.com/articles/s41467-024-51795-8'
+citation: '<b>Westergaard, D.</b>, Jørgensen, F. H., Waaben, J., Lademann, M., Hansen, T. F., Cremers, J., ... & Brunak, S. (2023). Uncovering the heritable components of multimorbidities and disease trajectories: a nationwide cohort study. Nature Communications, 2024-15.
 '
 ---
 

@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a **Senior Researcher** and **Head of the Data Science group** at University Hospital Hvidovre's Department of Gynecology and Obstetrics, with a focus on women's health, reproduction, and pregnancy. I also serve as an **Associate Professor** at the Technical University of Denmark's Department of Health Technology and am co-founder of two healthtech startups where I function as **CTO** and **CDO**.
 
+My research leverages Bayesian statistics, machine learning, and text mining alongside multi-omics data analysis (genomics, proteomics, metabolomics, metagenomics) to decode complex biological mechanisms behind pregnancy complications and their connection to broader health outcomes. Our team's mission is to transform research findings into clinical decision-making tools that meaningfully improve women's healthcare.
+
 
 ## Research
 My early research focused on sex differences in disease, which garnered significant attention from media outlets such as Reuters, Der Spiegel, and Forbes ([Nature Communications, 2019](https://www.nature.com/articles/s41467-019-08475-9)). I then expanded my work to investigate the long-term consequences of recurrent pregnancy loss on maternal health, demonstrating profound cardiovascular and autoimmune effects even a decade later ([Journal of the American Heart Association, 2020](https://www.ahajournals.org/doi/full/10.1161/JAHA.119.015069)). Additionally, as an advocate for open science, I have explored the impact of limited access to full-text articles on research ([PLOS Computational Biology, 2018](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005962)).
